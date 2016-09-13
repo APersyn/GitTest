@@ -6,7 +6,7 @@
 
 int main()
 {
-	//commeto
+	//comment
     return 0;
 }
 
